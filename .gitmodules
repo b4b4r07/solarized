@@ -1,3 +1,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/seebi/tmux-colors-solarized
+[submodule "terminal.app"]
+	path = terminal.app
+	url = https://github.com/tomislav/osx-terminal.app-colors-solarized
